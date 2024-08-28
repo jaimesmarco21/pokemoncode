@@ -1,0 +1,14 @@
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\bin\Debug\net8.0\pokemon.exe
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\bin\Debug\net8.0\pokemon.deps.json
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\bin\Debug\net8.0\pokemon.runtimeconfig.json
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\bin\Debug\net8.0\pokemon.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\bin\Debug\net8.0\pokemon.pdb
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\obj\Debug\net8.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\obj\Debug\net8.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\obj\Debug\net8.0\pokemon.AssemblyInfo.cs
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\obj\Debug\net8.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\obj\Debug\net8.0\pokemon.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\obj\Debug\net8.0\refint\pokemon.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\obj\Debug\net8.0\pokemon.pdb
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\obj\Debug\net8.0\pokemon.genruntimeconfig.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\Pokemon code\pokemon\obj\Debug\net8.0\ref\pokemon.dll
